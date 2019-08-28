@@ -1,1 +1,1 @@
-{ hello = (import <nixpkgs>).hello; }
+{ hello = (import <nixpkgs> { }).hello; }
